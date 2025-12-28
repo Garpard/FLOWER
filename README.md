@@ -1,3 +1,5 @@
+flower
+Flower
 fLOWER
 fLOWER
 # FLOWER
